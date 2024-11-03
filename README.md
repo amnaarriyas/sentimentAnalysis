@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your sentiment analysis project. This file gives an overview of the project, instructions for setting up and running it, and information on how it works.
 
----
 
 # Sentiment Analysis Tool
 
@@ -100,5 +98,3 @@ SentimentAnalysis/
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Feel free to modify any sections as needed to best describe your project!
